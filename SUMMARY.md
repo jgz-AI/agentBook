@@ -7,3 +7,4 @@
 * [第 5 章:Prompt 工程](di-5-zhang-prompt-gong-cheng.md)
 * [第 6 章:Advanced RAG 七大技巧](di-6-zhang-advanced-rag-qi-da-ji-qiao.md)
 * [第 7 章:商业化优化三板斧](di-7-zhang-shang-ye-hua-you-hua-san-ban-fu.md)
+* [第 3 章:向量表示 —— 让机器读懂"言外之意"](di-3-zhang-xiang-liang-biao-shi-rang-ji-qi-du-dong-yan-wai-zhi-yi-1.md)
